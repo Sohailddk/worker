@@ -14,7 +14,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['917012984396'] //ganti nomer lu
+global.vcardowner = ['923174263921'] //ganti nomer lu
 global.ownername = "ASWIN SPARKY" //ganti nama lu
 global.developer = "ASWIN" //nama lu
 global.ytname = "YT: SPARKY MON 777" //ur yt chanel name
